@@ -10,7 +10,7 @@ Follow these steps to push RetailIQ to GitHub:
 5. DO NOT initialize with README (we have one)
 6. Click "Create repository"
 
-## Step 2: Initialize Git & Push
+## Step 2: Initialize Git & Push.
 
 Open terminal in the `retailiq/` folder and run:
 
