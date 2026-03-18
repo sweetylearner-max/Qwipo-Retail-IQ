@@ -85,7 +85,7 @@ retailiq/
 │   └── package.json
 │
 ├── backend/                   # FastAPI backend
-│   ├── main.py                # App entry point + CORS
+│   ├── main.py .               # App entry point + CORS
 │   ├── routes/                # API route handlers
 │   │   ├── recommendations.py
 │   │   ├── trends.py
