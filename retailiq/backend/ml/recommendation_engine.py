@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics.pairwise import cosine_similarity
-from scipy.sparse import csr_matrix
+from scipy.sparse import csr_matrix.
 
 
 # ─────────────────────────────────────────────
